@@ -2,7 +2,7 @@
 
 A small **Webpack + JavaScript** starter used for practice: bundling, dev server, and a simple app structure.
 
-**Live demo:** <LIVE_DEMO_URL>
+**Live demo:** [<LIVE_DEMO_URL>](https://arseniishalamov.github.io/nodels_webPack/)
 
 > Get the URL from the repo sidebar: **Deployments → github-pages → View deployment**.
 
